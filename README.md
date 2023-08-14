@@ -129,3 +129,7 @@ Gostaríamos de ressaltar que este projeto tem como objetivo o trabalho em grupo
       </li>
     </ul>
       <div>
+        <h2>Link do <a href="https://fashion-store-entrega-template-grupo2.vercel.app/" target="_blank">Vercel</a></h2>
+      </div>
+  </div>
+</div>
